@@ -6,7 +6,7 @@ Software Developer | Computer Science Graduate | AI & Systems Enthusiast
 
 ## About Me
 
-Computer Science graduate with a strong interest in backend development, system design, and AI-powered applications.  
+Software Developer with a strong interest in backend development, system design, and AI-powered applications.  
 I enjoy building clean, scalable systems and focusing on clarity, maintainability, and real-world problem solving.
 
 Currently working on personal projects that combine modern backend technologies with Large Language Models (LLMs).
